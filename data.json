@@ -8,7 +8,10 @@
 		{ "country": "Creditial Access", "code": "gr" },
 		{ "country": "Discovery", "code": "lk" },
 		{ "country": "Lateral Movement", "code": "hr" },
-		{ "country": "Collection", "code": "bw" }
+		{ "country": "Collection", "code": "bw" },
+		{ "country": "Command and Control", "code": "bw" },
+		{ "country": "Exfiltration", "code": "bw" },
+		{ "country": "Impact", "code": "bw" }
 	],
 	"links": [
 
@@ -19,6 +22,12 @@
 		{ "target": 5, "source": 4 },
 		{ "target": 6, "source": 5 },
 		{ "target": 7, "source": 6 },
-		{ "target": 8, "source": 7 }
+		{ "target": 8, "source": 7 },
+		{ "target": 9, "source": 8 },
+		{ "target": 10, "source": 9 },
+		{ "target": 11, "source": 10 },
+		{ "target": 12, "source": 11 },
+		{ "target": 13, "source": 12 }
+
 	]
 }
